@@ -10,6 +10,7 @@
         </image>
 		
 		<image name="overlay" extra="true">
+			<path>./controller.svg</path>
 		</image>
 	</view>
 
@@ -20,6 +21,7 @@
 		</image>
 		
 		<image name="overlay" extra="true">
+			<path>./controller.svg</path>
 		</image>
 	</view>
 </theme>
