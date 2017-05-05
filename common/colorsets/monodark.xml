@@ -5,7 +5,7 @@
 	<view name="system">	
 	<!-- Page Layout -->
 		<image name="background" extra="true">
-			<path>./../images/binding_dark.png</path>
+			<path>./../images/black.png</path>
 		</image>
 		
 		<image name="bottom" extra="true">
@@ -32,7 +32,7 @@
     <view name="basic, detailed">
 	<!-- Page Layout -->
 		<image name="background" extra="true">
-			<path>./../images/binding_dark.png</path>
+			<path>./../images/black.png</path>
 		</image>
 		
 		<image name="top" extra="true">
